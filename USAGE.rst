@@ -34,6 +34,7 @@ Courses and training
 - University of Queensland, 2021. Code-Based Computing for Geospatial Data: the Digital Earth Australia (DEA) Sandbox platform. GEOM3001/7001 Advanced Earth Observation Sciences.
 - University of Tasmania, 2021. Remote Sensing: Image Analysis. Bachelor of Surveying and Spatial Sciences.
 - University of Tasmania, 2021. Spatial Research Project. Bachelor of Surveying and Spatial Sciences.
+- Flinders University, 2021. Remote Sensing for All Disciplines. Bachelor of Applied Geographical Information (Available as coursework Masters).
 
 
 Creative works
